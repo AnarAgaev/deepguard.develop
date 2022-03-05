@@ -266,7 +266,14 @@
 																<div class='step-wrp'>
 																	<div class='step-2-title'>«Вписываем» систему видеонаблюдения в общий стиль,</div>
 																	<div class='step-2-second'>делаем ее незаметной и аккуратной</div>
-																	<div class='step-2-img' data-type='1'><a href='/data/files/test/test_block/test/blk/q42min.png' data-size='882x593' data-photo='step_1'><img src='/data/files/test/test_block/test/blk/q42min.png'></a></div>
+																	<div class='step-2-img' data-type='1'>
+                                                                        <a class="image-popup-no-margins"
+                                                                           href='/data/files/test/test_block/test/blk/q42min.png'
+                                                                           data-size='882x593'
+                                                                           data-photo='step_1'>
+                                                                            <img src='/data/files/test/test_block/test/blk/q42min.png'>
+                                                                        </a>
+                                                                    </div>
 																</div>
 															</div>
 															<div class='test-info'>
@@ -369,7 +376,14 @@
 																<div class='step-wrp'>
 																	<div class='step-2-title'>Работаем только с надежными производителями оборудования: </div>
 																	<div class='step-2-second'>Dahua, Hikvision, HiWatch, TRASSIR, Wisenet, ActiveCam, Ajax и другие</div>
-																	<div class='step-2-img' data-type='2'><a href='/data/files/test/test_block/test/blk/claiderCanva.jpg' data-size='1920x1080' data-photo='step_2'><img src='/data/files/test/test_block/test/blk/claiderCanva.jpg'></a></div>
+																	<div class='step-2-img' data-type='2'>
+                                                                        <a href='/data/files/test/test_block/test/blk/claiderCanva.jpg'
+                                                                           class="image-popup-no-margins"
+                                                                           data-size='1920x1080'
+                                                                           data-photo='step_2'>
+                                                                            <img src='/data/files/test/test_block/test/blk/claiderCanva.jpg'>
+                                                                        </a>
+                                                                    </div>
 																</div>
 															</div>
 															<div class='test-info'>
@@ -475,7 +489,14 @@
 																<div class='step-wrp'>
 																	<div class='step-2-title'>Перед установкой наш инженер-замерщик рассчитает количество камер,</div>
 																	<div class='step-2-second'>чтобы не было «слепых зон» и при этом камеры не дублировали картинку</div>
-																	<div class='step-2-img' data-type='1'><a href='/data/files/test/test_block/test/blk/kol3.jpg' data-size='828x465' data-photo='step_3'><img src='/data/files/test/test_block/test/blk/kol3.jpg'></a></div>
+																	<div class='step-2-img' data-type='1'>
+                                                                        <a href='/data/files/test/test_block/test/blk/kol3.jpg'
+                                                                           class="image-popup-no-margins"
+                                                                           data-size='828x465'
+                                                                           data-photo='step_3'>
+                                                                            <img src='/data/files/test/test_block/test/blk/kol3.jpg'>
+                                                                        </a>
+                                                                    </div>
 																</div>
 															</div>
 															<div class='test-info'>
@@ -611,7 +632,14 @@
 																<div class='step-wrp'>
 																	<div class='step-2-title'>Устанавливаем простое и удобное приложение Hik-Connect</div>
 																	<div class='step-2-second'>Вы в любое время можете увидеть и услышать, что происходит в доме или во дворе</div>
-																	<div class='step-2-img' data-type='1'><a href='/data/files/test/test_block/test/blk/qq1.jpg' data-size='507x578' data-photo='step_4'><img src='/data/files/test/test_block/test/blk/qq1.jpg'></a></div>
+																	<div class='step-2-img' data-type='1'>
+                                                                        <a href='/data/files/test/test_block/test/blk/qq1.jpg'
+                                                                           class="image-popup-no-margins"
+                                                                           data-size='507x578'
+                                                                           data-photo='step_4'>
+                                                                            <img src='/data/files/test/test_block/test/blk/qq1.jpg'>
+                                                                        </a>
+                                                                    </div>
 																</div>
 															</div>
 															<div class='test-info'>
@@ -718,7 +746,14 @@
 																<div class='step-wrp'>
 																	<div class='step-2-title'>За 8 лет установили 500+ систем</div>
 																	<div class='step-2-second'>в частных домах, коттеджах, квартирах, подъездах, офисах, торговых центрах и т.д.</div>
-																	<div class='step-2-img' data-type='1'><a href='/data/files/test/test_block/test/blk/videoP.JPG' data-size='828x465' data-photo='step_5'><img src='/data/files/test/test_block/test/blk/videoP.JPG'></a></div>
+																	<div class='step-2-img' data-type='1'>
+                                                                        <a href='/data/files/test/test_block/test/blk/videoP.JPG'
+                                                                           class="image-popup-no-margins"
+                                                                           data-size='828x465'
+                                                                           data-photo='step_5'>
+                                                                            <img src='/data/files/test/test_block/test/blk/videoP.JPG'>
+                                                                        </a>
+                                                                    </div>
 																</div>
 															</div>
 															<div class='test-info'>
